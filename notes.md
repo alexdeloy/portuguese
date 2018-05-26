@@ -221,9 +221,9 @@
 ## Indefinite Pronouns
 |               | one           | where         | thing         |
 | ---           | ---           | ---           | ---           |
-| **every**     | todo mundo    | toda parte    | todo          |
-| **some**      | alguém        | algum lugar   | algum coisa   |
-| **no**        | niguêm        | nemhum lugar  | nada          |
+| **every**     | todo o mundo  | toda a parte  | tudo          |
+| **some**      | alguém        | algum lugar/algures   | alguma coisa   |
+| **no**        | ninguém       | nenhum lugar/nenhures  | nada          |
 
 ## Subject Pronouns
 * eu
