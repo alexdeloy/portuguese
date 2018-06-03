@@ -4,27 +4,23 @@
 | ---               | ---                   | ---                           |
 | Ai!               | -                     | Ouch!                         |
 | Arre!             | Impatience            | "Come on!", "Move"            |
+| Claro!            | Agreement             | Sure!                         |
 | Como o caralho    | ?                     | ... as fuck (e.g. Grande como o caralho / Big as fuck |
 | Credo!            | Weirdness, Disgust    | ?                             |
-| Droga!            | (Negative?) Surprise, Annoyance, Excitement |         |
 | Então             | ?                     | So, then                      |
-| Eu, hein!         | Negative Surprise, Disbelief | Come on!               |
+| Está bem          | Agreement, Filler     | All right                     |
 | Foda-se!          | ?                     | Ahh, fuck it.                 |
-| Legal!            | Positive, ?           | ?                             |
 | Mas que coisa!    | Disapproval, (Negative?) Surprise |                   |
 | Meu Deus!         | Surprise, Awe         | OMG                           |
-| Nossa!            | ?                     | Gosh!                         |
-| Não faz mal       | ?                     | Nevermind?                    |
+| Não faz mal       | ?                     | It's okay!                    |
+| deixa lá / esquece / deixa estar | - | Nevermind! |
 | Perdão!           | Apology               | Pardon!                       |
-| Puxa vida!        | Negative, Anger, Disappointment |                     |
+| Pod ser           | Agreement             | ? (lit.: can be -> yes)        |
+| Pois!             | Agreement             | Mhm...                        |
 | Puxa!             | Admiration            | Wow!                          |
 | Relaxa!           | ?                     | Chill out!                    |
 | Vamos!            | Used like "Então"     | Let's go!                     |
-| Vixe Maria!       | Surprise              | ?                             |
-| Pois!             | Agreement             | ?                             |
-| Pod ser           | Agreement             | ? (lit. can be -> yes)        |
-| Claro!            | Agreement             | Sure!                         |
-| Está bem          | Agreement, Filler     | All right                     |
+
 
 # Conjunctions
 
