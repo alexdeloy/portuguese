@@ -3,6 +3,7 @@
 | Interjection      | Usage                 | Closest english equivalent    |
 | ---               | ---                   | ---                           |
 | Ai!               | -                     | Ouch!                         |
+| Anda!             | Encouraging           | Let's go!                     |
 | Arre!             | Impatience            | "Come on!", "Move"            |
 | Claro!            | Agreement             | Sure!                         |
 | Como o caralho    | ?                     | ... as fuck (e.g. Grande como o caralho / Big as fuck |
